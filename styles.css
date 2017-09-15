@@ -4,14 +4,14 @@
 
 @media screen and (min-width: 1081px) {
     img {
-        content:url(kitten-large.png);
+        content:url(https://user-images.githubusercontent.com/25018733/30504518-1316b362-9a24-11e7-87bf-754c73637cbd.png);
     }
 	
 }
 
 @media screen and (max-width: 1080px) {
   img {
-      content:url(https://user-images.githubusercontent.com/25018896/30411191-5c4621aa-98c4-11e7-93dc-9547289d692d.png);
+      content:url();
   }
 	body {
 	    background-color: black;
