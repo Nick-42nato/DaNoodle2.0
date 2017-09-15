@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1080px) {
   img {
-      content:url();
+      content:url(https://user-images.githubusercontent.com/25018733/30504535-303c3250-9a24-11e7-8850-e8e8c7a7e2f5.png);
   }
 	body {
 	    background-color: black;
@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 820px) {
    img {
-      content:url(https://user-images.githubusercontent.com/25018896/30411171-3cbe376e-98c4-11e7-9ce3-9a20debd884c.png);
+      content:url();
    }
 	 body {
 	    background-color: black;
