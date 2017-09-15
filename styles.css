@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 600px) {
   img {
-      content:url();
+      content:url(https://user-images.githubusercontent.com/25018733/30504557-62e66108-9a24-11e7-8e03-b914dd1df358.gif);
   }
 	body {
 	    background-image: url("https://media.tenor.com/images/96f7050202b6a25d24d95f0202d54ffd/tenor.gif");
@@ -42,7 +42,7 @@
 	visibility: visible;
 	}
   .hidden {
-        content:url(https://user-images.githubusercontent.com/25018896/30411171-3cbe376e-98c4-11e7-9ce3-9a20debd884c.png);
+        content:url();
   }
 	body {
 	    background-image: url("https://media.tenor.com/images/5c56f0e022cbd600cd4dbb2f7faab029/tenor.gif");
