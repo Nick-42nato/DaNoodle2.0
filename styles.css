@@ -31,8 +31,11 @@
   img {
       content:url(https://user-images.githubusercontent.com/25018733/30504557-62e66108-9a24-11e7-8e03-b914dd1df358.gif);
   }
+	.hidden {
+        content:url(https://user-images.githubusercontent.com/25018733/30504540-3acea25c-9a24-11e7-9150-ebd00f2c278f.png);
+  }
 	body {
-	    background-image: url("https://media.tenor.com/images/96f7050202b6a25d24d95f0202d54ffd/tenor.gif");
+	    background-image: url("https://i.makeagif.com/media/10-17-2015/bsfc4n.gif");
 	}
 }
 
