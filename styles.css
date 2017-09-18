@@ -6,7 +6,9 @@
     img {
         content:url(https://user-images.githubusercontent.com/25018733/30504518-1316b362-9a24-11e7-87bf-754c73637cbd.png);
     }
-	
+	body {
+	    background: black;
+	}
 }
 
 @media screen and (max-width: 1080px) {
